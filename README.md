@@ -4,12 +4,16 @@ This repository contains an interactive HR Analytics Dashboard built using Power
 - Power BI
 - Power Query
 - Excel
+
+  
 **KPIs**
 - Attrition Rate
 - Employee Count
 - Average Salary
 - Average Age
 - Average Tenure
+
+  
 **Insights**
 - Highest attrition among employees aged 26–35.
 - Research & Development had the highest attrition.
